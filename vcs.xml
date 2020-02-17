@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/CS-407-Spring2020/lab-3-milestone-1-rjbrown38" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CS-407-Spring2020/lab-3-milestone-2-rjbrown38" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
